@@ -1,1 +1,3 @@
-# coding-temple-ship
+# my-coding-temple-ship
+
+Author: Coding Temple
